@@ -2,4 +2,4 @@
 <hr style="border: 2px solid red;">
 
 ### Frontend Resources
-<hr style="border: 2px solid blue;">
+<div style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;"></div>
