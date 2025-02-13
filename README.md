@@ -295,6 +295,53 @@
 ### 2️⃣8️⃣ **Best Practices for Debugging Frontend Applications**  
 - **[How to Effectively Debug JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)**  
 - **[Debugging Checklist for Frontend Developers](https://frontendmasters.com/blog/debugging-like-a-pro/)**  
-- **[Common Frontend Bugs & How to Fix Them](https://css-tricks.com/debugging-css-javascript-html/)**  
+- **[Common Frontend Bugs & How to Fix Them](https://css-tricks.com/debugging-css-javascript-html/)**
+
+  ## 📌 Best VS Code Extensions for Frontend Development  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 2️⃣9️⃣ **Essential Extensions for Frontend Development**  
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - Linting & error checking for JavaScript/TypeScript  
+- **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Code formatting for better readability  
+- **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - Live preview of HTML/CSS/JavaScript changes  
+- **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)** - Autocomplete file paths in projects  
+
+### 3️⃣0️⃣ **AI-Powered Extensions for Code Assistance**  
+- **[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)** - AI-powered code suggestions & auto-completion  
+- **[Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)** - Free AI coding assistant with smart completions  
+- **[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)** - AI-driven auto-complete for faster development  
+- **[AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)** - AI-powered coding assistant from AWS  
+
+### 3️⃣1️⃣ **Extensions for React & JavaScript Development**  
+- **[React Developer Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)** - Debug React apps directly in VS Code  
+- **[React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense)** - Auto-suggest PropTypes for React components  
+- **[JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)** - Handy ES6+ snippets for faster coding  
+
+### 3️⃣2️⃣ **CSS & Tailwind Extensions**  
+- **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)** - Autocomplete & highlighting for Tailwind classes  
+- **[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)** - Navigate between HTML & CSS styles easily  
+- **[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)** - Highlights CSS color codes visually  
+
+### 3️⃣3️⃣ **HTML & Markup Language Extensions**  
+- **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)** - Automatically rename paired HTML/XML tags  
+- **[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)** - CSS class suggestions in HTML files  
+- **[IntelliSense for HTML](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)** - HTML linting & auto-suggestions  
+
+### 3️⃣4️⃣ **Frontend Debugging & Performance Tools**  
+- **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - Debug JavaScript code directly in Chrome  
+- **[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)** - Test APIs without Postman inside VS Code  
+- **[Sentry - Error Monitoring](https://sentry.io/)** - AI-powered debugging & error tracking  
+
+### 3️⃣5️⃣ **Version Control & Productivity Extensions**  
+- **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** - Advanced Git history tracking & annotations  
+- **[Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)** - Quickly switch between different projects  
+- **[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)** - Highlights TODO comments for better task tracking  
+
+### 3️⃣6️⃣ **Best Practices & Code Quality**  
+- **[SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)** - Real-time code quality & bug detection  
+- **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - Categorized & color-coded comments for readability  
+- **[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)** - Improved Markdown editing & previewing  
+
+
 
 
