@@ -166,5 +166,49 @@
 - **[Preventing XSS & CSRF Attacks](https://portswigger.net/web-security/csrf)**  
 - **[CORS Explained - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)**  
 
+### 8️⃣ **Client-Side State Management**  
+- **[React useState & useReducer Hooks](https://react.dev/reference/react/useState)**  
+- **[Context API in React](https://react.dev/reference/react/useContext)**  
+- **[When to Use Local vs. Global State](https://kentcdodds.com/blog/application-state-management-with-react/)**  
+
+### 9️⃣ **Global State Management Libraries**  
+#### 🟢 **Redux & Redux Toolkit**  
+- **[Redux Official Docs](https://redux.js.org/)**  
+- **[Redux Toolkit Guide](https://redux-toolkit.js.org/)**  
+- **[Redux vs Context API - A Deep Dive](https://dev.to/dan_abramov/you-might-not-need-redux-8ln)**  
+
+#### 🔵 **Recoil - Atomic State Management**  
+- **[Recoil Official Docs](https://recoiljs.org/)**  
+- **[Recoil vs Redux - Comparison](https://blog.bitsrc.io/recoil-vs-redux-a-comparison-which-to-choose-8555c19905c4)**  
+
+#### 🟡 **Zustand - Lightweight Alternative to Redux**  
+- **[Zustand Docs](https://docs.pmnd.rs/zustand/getting-started/introduction)**  
+- **[Why Use Zustand Instead of Redux?](https://www.smashingmagazine.com/2022/06/state-management-react-applications-zustand/)**  
+
+### 🔟 **Server-Side State Management & Data Fetching**  
+#### 🔹 **React Query (TanStack Query)**  
+- **[React Query Official Docs](https://tanstack.com/query/latest/)**  
+- **[Handling API Requests with React Query](https://www.freecodecamp.org/news/how-to-use-react-query-for-efficient-data-fetching/)**  
+- **[React Query vs Redux - When to Use What?](https://blog.logrocket.com/react-query-vs-redux-toolkit/)**  
+
+#### 🔹 **Apollo Client (GraphQL State Management)**  
+- **[Apollo Client Docs](https://www.apollographql.com/docs/react/)**  
+- **[State Management with Apollo vs. Redux](https://blog.logrocket.com/apollo-client-vs-redux/)**  
+- **[GraphQL with Apollo - Full Guide](https://www.howtographql.com/react-apollo/)**  
+
+### 1️⃣1️⃣ **Comparison of Different State Management Approaches**  
+| State Management Approach | Use Case | Pros | Cons |
+|-------------------------|----------|------|------|
+| **Context API** | Small to medium apps | Simple, built-in | Performance issues with frequent updates |
+| **Redux Toolkit** | Large-scale apps | Predictable, great dev tools | Boilerplate code |
+| **Zustand** | Lightweight state needs | Minimal setup, simple API | Lacks middleware support |
+| **Recoil** | Complex state dependencies | Atom-based, flexible | Not yet widely adopted |
+| **React Query** | API data fetching | Auto-caching, real-time sync | Doesn't handle app-wide state |
+| **Apollo Client** | GraphQL API handling | Caching, declarative data fetching | Tied to GraphQL |
+
+### 1️⃣2️⃣ **State Management Best Practices**  
+- **[How to Choose the Right State Management Approach](https://www.smashingmagazine.com/2021/08/state-management-react-2021/)**  
+- **[Performance Optimization for State Management](https://kentcdodds.com/blog/application-state-management-with-react/)**  
+- **[Avoiding Common Mistakes in State Management](https://dev.to/samanthaming/what-not-to-do-with-react-state-58mm)**   
 
 
