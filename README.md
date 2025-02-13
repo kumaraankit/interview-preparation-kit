@@ -514,7 +514,124 @@
 
 5. **Implement Dark Mode in React**  
    - **Problem:** Add theme toggling (dark/light mode) with local storage persistence  
-   - **Solution:** [Dark Mode Implementation](https://blog.logrocket.com/creating-dark-mode-react-app-styled-components/)  
+   - **Solution:** [Dark Mode Implementation](https://blog.logrocket.com/creating-dark-mode-react-app-styled-components/)
+  
+## 📌 Advanced System Design Problems for Senior Frontend Engineers  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 5️⃣3️⃣ **Frontend Architecture & Performance Optimization**  
+1. **Design a Scalable Microfrontend Architecture**  
+   - **Problem:** How would you break a monolithic frontend into independent microfrontends?  
+   - **Solution:** [Microfrontends Explained](https://martinfowler.com/articles/micro-frontends.html)  
+
+2. **Optimize a Large-Scale React Application**  
+   - **Problem:** Reduce render times, optimize bundle size, and avoid unnecessary re-renders in a complex React app  
+   - **Solution:** [React Performance Optimization Guide](https://react.dev/learn/optimizing-performance)  
+
+3. **Design an Image & Video Optimization Service for a Web App**  
+   - **Problem:** How would you efficiently serve media assets at scale while ensuring fast performance?  
+   - **Solution:** [Cloudinary Image Optimization](https://cloudinary.com/documentation/image_optimization)  
+
+4. **Build a Resilient Progressive Web App (PWA)**  
+   - **Problem:** How would you architect a PWA that works seamlessly offline and loads instantly?  
+   - **Solution:** [PWA Best Practices](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)  
+
+5. **Create a Real-Time Collaborative Document Editing Platform**  
+   - **Problem:** How would you design a frontend that allows multiple users to edit documents in real-time?  
+   - **Solution:** [Google Docs System Design](https://www.educative.io/blog/how-to-build-google-docs)  
+
+---
+
+### 5️⃣4️⃣ **State Management & Data Handling**  
+1. **Design a Scalable State Management Solution for a Large App**  
+   - **Problem:** How would you manage state in a complex app with multiple feature teams?  
+   - **Solution:** [Redux vs Recoil vs Zustand](https://blog.logrocket.com/comparing-popular-react-state-management-libraries/)  
+
+2. **Efficient Data Fetching & Caching Strategy**  
+   - **Problem:** How would you handle API responses, caching, and revalidation efficiently?  
+   - **Solution:** [Data Fetching Strategies in React](https://react-query.tanstack.com/)  
+
+3. **Building a Live Dashboard with WebSockets & GraphQL Subscriptions**  
+   - **Problem:** How do you design a real-time data dashboard with minimal latency?  
+   - **Solution:** [WebSockets vs GraphQL Subscriptions](https://blog.apollographql.com/graphql-subscriptions-in-apollo-client-9a2457f015fb)  
+
+4. **Design a Feature Flagging System for Frontend**  
+   - **Problem:** How would you implement feature toggles to enable/disable features dynamically?  
+   - **Solution:** [Feature Flags in React](https://martinfowler.com/articles/feature-toggles.html)  
+
+5. **How Would You Handle 1 Million Concurrent API Requests in a Web App?**  
+   - **Problem:** If your frontend needs to handle extreme API load, how would you optimize network requests?  
+   - **Solution:** [Optimizing API Requests](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)  
+
+---
+
+### 5️⃣5️⃣ **Frontend Security & Scalability**  
+1. **How Would You Secure a Web App Against XSS & CSRF Attacks?**  
+   - **Problem:** Identify potential security vulnerabilities and implement best practices  
+   - **Solution:** [OWASP Security Guide](https://owasp.org/www-project-top-ten/)  
+
+2. **Design a Multi-Tenant Frontend for SaaS**  
+   - **Problem:** How do you build a frontend architecture that supports multiple organizations with different branding and configurations?  
+   - **Solution:** [SaaS Multi-Tenancy](https://www.smashingmagazine.com/2021/09/designing-multi-tenant-web-apps-saas/)  
+
+3. **How Would You Build a Secure Authentication & Authorization System?**  
+   - **Problem:** Implement OAuth, JWT, role-based access control (RBAC), and single sign-on (SSO)  
+   - **Solution:** [Authentication Best Practices](https://auth0.com/docs/)  
+
+4. **Scalability Considerations for a High-Traffic E-commerce Website**  
+   - **Problem:** How do you ensure high availability, fast performance, and reliability for an online store during peak traffic?  
+   - **Solution:** [Scalable Web Apps](https://web.dev/scalable-web-apps/)  
+
+5. **CDN & Edge Computing Strategy for Faster Global Content Delivery**  
+   - **Problem:** How would you use CDNs and edge caching to serve assets quickly to global users?  
+   - **Solution:** [CDN & Edge Computing Explained](https://developer.cloudflare.com/cache/about/cdn/)  
+
+---
+
+### 5️⃣6️⃣ **Microservices & Backend Integration for Frontend Engineers**  
+1. **Frontend for a Distributed Microservices-Based System**  
+   - **Problem:** How would your frontend handle API orchestration when integrating with microservices?  
+   - **Solution:** [Frontend & Microservices](https://microservices.io/patterns/microfrontend.html)  
+
+2. **Handling Webhooks & Event-Driven Architecture in a Frontend App**  
+   - **Problem:** How would you design a frontend that listens to real-time webhook events?  
+   - **Solution:** [Webhooks Guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/HTTP_Webhooks)  
+
+3. **Server-Side Rendering (SSR) vs Static Site Generation (SSG) in Next.js**  
+   - **Problem:** When should you choose SSR, SSG, or hybrid approaches in Next.js?  
+   - **Solution:** [SSR vs SSG Explained](https://nextjs.org/docs/basic-features/pages#server-side-rendering)  
+
+4. **Building a Frontend Analytics Dashboard**  
+   - **Problem:** How would you collect, process, and visualize user analytics data on the frontend?  
+   - **Solution:** [Building Analytics Dashboards](https://developers.google.com/analytics/devguides/reporting)  
+
+5. **How Would You Handle API Rate Limiting in a Frontend Application?**  
+   - **Problem:** What strategies would you implement to avoid hitting API limits?  
+   - **Solution:** [Rate Limiting Strategies](https://blog.logrocket.com/rate-limiting-node-js/)  
+
+---
+
+### 5️⃣7️⃣ **AI-Powered Frontend & Web Applications**  
+1. **Integrating AI-based Auto-Suggestions in a Text Editor**  
+   - **Problem:** How would you build an AI-powered suggestion system in a web text editor?  
+   - **Solution:** [AI Text Prediction](https://openai.com/research/gpt-3/)  
+
+2. **Using AI for Image & Video Content Moderation**  
+   - **Problem:** How would you automatically filter inappropriate content using AI?  
+   - **Solution:** [AI Content Moderation](https://cloud.google.com/vision/docs/detecting-safe-search)  
+
+3. **AI-Powered Chatbot Integration for Customer Support**  
+   - **Problem:** How do you integrate a chatbot using OpenAI or Dialogflow into a frontend?  
+   - **Solution:** [Chatbot with OpenAI](https://platform.openai.com/)  
+
+4. **AI-Driven Personalization in an E-Commerce Frontend**  
+   - **Problem:** How would you customize user experiences dynamically using AI?  
+   - **Solution:** [AI Personalization](https://towardsdatascience.com/ai-powered-recommendation-systems-1f6c54ca575d)  
+
+5. **Building a Voice-Controlled Web Interface**  
+   - **Problem:** How would you integrate voice commands into a frontend application?  
+   - **Solution:** [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)  
+
 
 ---
 
