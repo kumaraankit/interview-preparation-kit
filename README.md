@@ -93,7 +93,41 @@
 ### 5️⃣ **Advanced CSS (SASS, Variables, Responsive Design)**  
 - **[Introduction to SASS (SCSS) - FreeCodeCamp](https://www.youtube.com/watch?v=_a5j7KoflTs)**  
 - **[CSS Variables Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)**  
-- **[Responsive Web Design - Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)**  
+- **[Responsive Web Design - Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)**
+
+## 📌 Frontend UI Libraries & Frameworks  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 1️⃣ **Material UI (MUI) - React UI Library**  
+- **[Material UI Official Docs](https://mui.com/)**  
+- **[Material UI Crash Course - Traversy Media](https://www.youtube.com/watch?v=vyJU9efvUtQ)**  
+- **[Theming & Customization in MUI](https://mui.com/material-ui/customization/theming/)** 
+
+### 3️⃣ **Tailwind CSS - Utility-First CSS Framework**  
+- **[Tailwind CSS Official Docs](https://tailwindcss.com/docs/installation)**  
+- **[Tailwind CSS Crash Course - Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ)**  
+- **[Mastering Tailwind Flexbox & Grid](https://tailwindcss.com/docs/flexbox-grid)**  
+
+### 4️⃣ **Chakra UI - Simple & Modular UI Components**  
+- **[Chakra UI Official Docs](https://chakra-ui.com/)**  
+- **[Chakra UI Crash Course - YouTube](https://www.youtube.com/watch?v=QI-qbbWzMzo)**  
+- **[Chakra UI Theming Guide](https://chakra-ui.com/docs/styled-system/theme)**  
+
+### 5️⃣ **CSS Grid & Flexbox Libraries**  
+- **[CSS Grid Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)**  
+- **[A Complete Guide to CSS Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**  
+- **[Gridlex - A Minimal Flexbox Grid Framework](http://gridlex.devlint.fr/)**  
+
+### 6️⃣ **Ant Design - Enterprise-Level UI Framework**  
+- **[Ant Design Official Docs](https://ant.design/)**  
+- **[Ant Design React Tutorial - YouTube](https://www.youtube.com/watch?v=DhV9Vojpav8)**  
+- **[Customizing Ant Design Components](https://ant.design/docs/react/customize-theme)**  
+
+### 7️⃣ **Foundation - Responsive Frontend Framework**  
+- **[Foundation Official Docs](https://get.foundation/)**  
+- **[Foundation Grid System](https://get.foundation/sites/docs/grid.html)**  
+- **[Foundation UI Components Overview](https://get.foundation/sites/docs/components.html)**  
+ 
 
 
 
