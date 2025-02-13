@@ -209,6 +209,50 @@
 ### 1️⃣2️⃣ **State Management Best Practices**  
 - **[How to Choose the Right State Management Approach](https://www.smashingmagazine.com/2021/08/state-management-react-2021/)**  
 - **[Performance Optimization for State Management](https://kentcdodds.com/blog/application-state-management-with-react/)**  
-- **[Avoiding Common Mistakes in State Management](https://dev.to/samanthaming/what-not-to-do-with-react-state-58mm)**   
+- **[Avoiding Common Mistakes in State Management](https://dev.to/samanthaming/what-not-to-do-with-react-state-58mm)**
+
+## 📌 AI Resources for Frontend Development  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 1️⃣3️⃣ **Introduction to AI in Frontend**  
+- **[AI-Powered Frontend Development - FreeCodeCamp](https://www.freecodecamp.org/news/how-ai-can-improve-frontend-development/)**  
+- **[How AI is Changing Frontend Development](https://dev.to/mitul3737/how-ai-is-changing-frontend-development-4h4m)**  
+- **[AI Tools for Web Developers](https://www.smashingmagazine.com/2023/01/ai-tools-web-developers/)**  
+
+### 1️⃣4️⃣ **AI-Powered Code Assistants**  
+- **[GitHub Copilot](https://github.com/features/copilot) - AI pair programmer for faster coding**  
+- **[Codeium](https://codeium.com/) - Free AI-powered code completion**  
+- **[Tabnine](https://www.tabnine.com/) - AI-driven code suggestions for JavaScript & React**  
+
+### 1️⃣5️⃣ **AI in UI/UX & Design Automation**  
+- **[Figma AI Plugins - Automating UI Design](https://www.figma.com/community/search?resource_type=plugin&q=ai)**  
+- **[Adobe Firefly - AI-Powered Design](https://www.adobe.com/sensei/generative-ai/firefly.html)**  
+- **[UX Design with AI - Nielsen Norman Group](https://www.nngroup.com/articles/ai-ux-design/)**  
+
+### 1️⃣6️⃣ **AI for Image & Video Processing in Frontend**  
+- **[TensorFlow.js - AI in Browser](https://www.tensorflow.org/js)**  
+- **[ML5.js - AI Simplified for Web](https://ml5js.org/)**  
+- **[Google's Teachable Machine](https://teachablemachine.withgoogle.com/) - No-code AI model training for frontend apps**  
+
+### 1️⃣7️⃣ **Chatbots & AI-Powered Interactions**  
+- **[Building Chatbots with OpenAI API](https://platform.openai.com/docs/)**  
+- **[Rasa - Open Source AI Chatbot](https://rasa.com/)**  
+- **[BotPress - Low-Code AI Chatbot Builder](https://botpress.com/)**  
+
+### 1️⃣8️⃣ **AI-Based Personalization & Recommendations**  
+- **[Next.js Middleware for AI-Powered Personalization](https://nextjs.org/docs/advanced-features/middleware)**  
+- **[Google’s Recommendations AI](https://cloud.google.com/recommendations-ai/)**  
+- **[Netflix’s AI-Powered UI Personalization](https://netflixtechblog.com/)**  
+
+### 1️⃣9️⃣ **Voice & Speech Recognition in Frontend**  
+- **[Web Speech API - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)**  
+- **[AI-Powered Voice Assistants in JavaScript](https://towardsdatascience.com/how-to-build-your-own-ai-powered-voice-assistant-using-python-57e539246a2f)**  
+- **[Amazon Lex - AI Chat & Voice for Web Apps](https://aws.amazon.com/lex/)**  
+
+### 2️⃣0️⃣ **AI Ethics & Best Practices in Frontend**  
+- **[AI & Accessibility in Web Development](https://webaim.org/techniques/ai/)**  
+- **[Google’s Responsible AI Practices](https://ai.google/responsibility/principles/)**  
+- **[OpenAI’s Guidelines on Ethical AI Use](https://openai.com/research)**  
+ 
 
 
