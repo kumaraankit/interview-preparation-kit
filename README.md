@@ -386,7 +386,98 @@
 - **[Testing React Best Practices](https://testing-library.com/docs/react-testing-library/cheatsheet/)** - Cheatsheet for React testing  
 - **[Common Mistakes in Testing](https://blog.logrocket.com/common-testing-mistakes-avoid/)** - Best practices & pitfalls in frontend testing  
 
+## 📌 Machine Coding problems for Frontend (React & JavaScript)  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
 
+### 4️⃣4️⃣ **React Machine Coding Questions**  
+1. **Build a Todo List App**  
+   - **Problem:** Implement a functional React Todo List with add, delete, and mark-as-done features  
+   - **Solution:** [CodeSandbox Example](https://codesandbox.io/s/react-todo-app-q83jz)  
+
+2. **Create a Modal Component in React**  
+   - **Problem:** Implement a reusable `Modal` component that supports open/close states  
+   - **Solution:** [Modal Component in React](https://react.dev/learn/reusing-logic-with-custom-hooks)  
+
+3. **Build a Debounced Search Bar**  
+   - **Problem:** Implement a search bar with a debounce mechanism to limit API calls  
+   - **Solution:** [Debounce Implementation in React](https://usehooks.com/useDebounce/)  
+
+4. **Infinite Scroll Implementation**  
+   - **Problem:** Fetch and render items dynamically as the user scrolls down  
+   - **Solution:** [React Infinite Scroll Guide](https://www.freecodecamp.org/news/build-an-infinite-scroll-component-in-react/)  
+
+5. **Drag and Drop Todo List**  
+   - **Problem:** Implement drag-and-drop functionality in a task list using React  
+   - **Solution:** [React DnD Example](https://react-dnd.github.io/react-dnd/)  
+
+---
+
+### 4️⃣5️⃣ **JavaScript Machine Coding Questions**  
+1. **Throttling and Debouncing in JavaScript**  
+   - **Problem:** Implement a `throttle` and `debounce` function from scratch  
+   - **Solution:** [Throttling vs Debouncing](https://www.freecodecamp.org/news/throttle-vs-debounce/)  
+
+2. **Deep Clone an Object in JavaScript**  
+   - **Problem:** Implement a function to deeply clone nested JavaScript objects  
+   - **Solution:** [Deep Clone Implementation](https://dmitripavlutin.com/javascript-deep-clone-object/)  
+
+3. **Implement a Custom Promise.all()**  
+   - **Problem:** Write a function that behaves like `Promise.all()`  
+   - **Solution:** [Promise.all() Polyfill](https://dev.to/oyetoket/promise-all-polyfill-in-javascript-47p4)  
+
+4. **Flatten a Nested Array Without Using `flat()`**  
+   - **Problem:** Implement a function to flatten an array of arbitrary depth  
+   - **Solution:** [Recursive Flattening](https://javascript.plainenglish.io/flattening-arrays-in-javascript-d19f37c5b5b3)  
+
+5. **LRU Cache Implementation**  
+   - **Problem:** Implement an LRU (Least Recently Used) cache using JavaScript  
+   - **Solution:** [LRU Cache Implementation](https://leetcode.com/problems/lru-cache/)  
+
+---
+
+### 4️⃣6️⃣ **System Design Machine Coding Problems for Frontend**  
+1. **Build a Virtualized List (Handling Large Data)**  
+   - **Problem:** Efficiently render a large dataset with optimal performance  
+   - **Solution:** [React Virtualized Example](https://bvaughn.github.io/react-virtualized/)  
+
+2. **Design an Image Lazy Loader**  
+   - **Problem:** Implement lazy loading for images to improve performance  
+   - **Solution:** [Lazy Loading Images](https://web.dev/lazy-loading/)  
+
+3. **Build a Custom UI Component Library**  
+   - **Problem:** Implement a basic component library with buttons, modals, and inputs  
+   - **Solution:** [Guide to Building a UI Library](https://betterprogramming.pub/how-to-build-a-component-library-with-react-and-storybook-27f6e1b82e3c)  
+
+4. **Build a Notification System in React**  
+   - **Problem:** Implement a toast notification system for real-time alerts  
+   - **Solution:** [React Toast Notifications](https://react-hot-toast.com/)  
+
+5. **Implement Dark Mode in React**  
+   - **Problem:** Add theme toggling (dark/light mode) with local storage persistence  
+   - **Solution:** [Dark Mode Implementation](https://blog.logrocket.com/creating-dark-mode-react-app-styled-components/)  
+
+---
+
+### 4️⃣7️⃣ **Frontend Optimization Challenges**  
+1. **Code-Splitting in React**  
+   - **Problem:** Optimize a React app by implementing dynamic imports  
+   - **Solution:** [React Code Splitting](https://react.dev/reference/react/lazy)  
+
+2. **Improve Page Load Performance**  
+   - **Problem:** Optimize a slow React app to load faster  
+   - **Solution:** [Frontend Performance Optimization](https://web.dev/fast/)  
+
+3. **Render Large JSON Data Efficiently**  
+   - **Problem:** Optimize rendering of large JSON datasets in the UI  
+   - **Solution:** [Efficient Data Rendering](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)  
+
+4. **Optimize React Re-Renders**  
+   - **Problem:** Prevent unnecessary renders in a React component tree  
+   - **Solution:** [React.memo & useCallback](https://react.dev/learn/optimizing-performance)  
+
+5. **Design a Responsive UI Without CSS Frameworks**  
+   - **Problem:** Implement a responsive layout using pure CSS and media queries  
+   - **Solution:** [Responsive Design Best Practices](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)  
 
 
 
