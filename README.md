@@ -67,4 +67,33 @@
 - **[Geolocation API Guide](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)**
 - **[Web Storage API - LocalStorage & SessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)**
 
+## 📌 CSS Topics  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 1️⃣ **CSS Basics & Fundamentals**  
+- **[MDN Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)**  
+- **[CSS Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=OXGznpKZ_sA)**  
+- **[CSS Crash Course - Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI)**  
+
+### 2️⃣ **Selectors, Specificity & Units**  
+- **[CSS Selectors Cheat Sheet](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)**  
+- **[CSS Specificity Explained](https://css-tricks.com/specifics-on-css-specificity/)**  
+- **[CSS Units Explained (px, em, rem, %, vh, vw)](https://www.freecodecamp.org/news/css-units-explained/)**  
+
+### 3️⃣ **CSS Flexbox & Grid (Layout Systems)**  
+- **[A Complete Guide to Flexbox - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**  
+- **[A Complete Guide to CSS Grid - CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)**  
+- **[Flexbox vs. Grid - When to Use What?](https://www.youtube.com/watch?v=hs3piaN4b5I)**  
+
+### 4️⃣ **CSS Animations & Transitions**  
+- **[CSS Animations Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)**  
+- **[CSS Transitions & Animations Explained](https://css-tricks.com/almanac/properties/a/animation/)**  
+- **[Creating Smooth Animations with CSS - YouTube](https://www.youtube.com/watch?v=YszONjKpgg4)**  
+
+### 5️⃣ **Advanced CSS (SASS, Variables, Responsive Design)**  
+- **[Introduction to SASS (SCSS) - FreeCodeCamp](https://www.youtube.com/watch?v=_a5j7KoflTs)**  
+- **[CSS Variables Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)**  
+- **[Responsive Web Design - Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)**  
+
+
 
