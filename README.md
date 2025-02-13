@@ -254,5 +254,47 @@
 - **[Google’s Responsible AI Practices](https://ai.google/responsibility/principles/)**  
 - **[OpenAI’s Guidelines on Ethical AI Use](https://openai.com/research)**  
  
+## 📌 Debugging in Frontend Development  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 2️⃣1️⃣ **Debugging JavaScript Errors**  
+- **[Chrome DevTools - JavaScript Debugging](https://developer.chrome.com/docs/devtools/javascript/)**  
+- **[Debugging JavaScript in VS Code](https://code.visualstudio.com/docs/nodejs/debugging-recipes)**  
+- **[Common JavaScript Debugging Techniques](https://raygun.com/javascript-debugging/)**  
+
+### 2️⃣2️⃣ **React Debugging & Performance Monitoring**  
+- **[React DevTools - Official Docs](https://react.dev/blog/2022/04/29/react-devtools-4.24)**  
+- **[Debugging React Components](https://kentcdodds.com/blog/debugging-react)**  
+- **[React Profiler for Performance Debugging](https://react.dev/reference/react/Profiler)**  
+
+### 2️⃣3️⃣ **CSS Debugging & Layout Issues**  
+- **[CSS Debugging with DevTools](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)**  
+- **[Using Grid & Flexbox Debugging Tools](https://web.dev/css-grid/)**  
+- **[Chrome DevTools for CSS Debugging](https://developer.chrome.com/docs/devtools/css/)**  
+
+### 2️⃣4️⃣ **Network Debugging & API Issues**  
+- **[Debugging API Calls with Chrome DevTools](https://developer.chrome.com/docs/devtools/network/)**  
+- **[Postman for API Testing](https://www.postman.com/)**  
+- **[Handling CORS Issues in Frontend](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors)**  
+
+### 2️⃣5️⃣ **Debugging Memory Leaks & Performance Bottlenecks**  
+- **[Identifying Memory Leaks in JavaScript](https://developer.chrome.com/docs/devtools/memory-problems/)**  
+- **[Performance Profiling with Lighthouse](https://developer.chrome.com/docs/lighthouse/)**  
+- **[Optimizing JavaScript for Better Performance](https://web.dev/javascript-performance/)**  
+
+### 2️⃣6️⃣ **AI-Powered Debugging Tools**  
+- **[GitHub Copilot for Code Fixes](https://github.com/features/copilot)**  
+- **[DeepCode AI - Automated Code Review](https://snyk.io/deepcode/)**  
+- **[CodeWhisperer - AI Debugging by AWS](https://aws.amazon.com/codewhisperer/)**  
+
+### 2️⃣7️⃣ **Frontend Testing & Error Handling**  
+- **[Jest for Unit Testing](https://jestjs.io/)**  
+- **[Cypress for End-to-End Testing](https://www.cypress.io/)**  
+- **[Sentry - Error Monitoring & Debugging](https://sentry.io/)**  
+
+### 2️⃣8️⃣ **Best Practices for Debugging Frontend Applications**  
+- **[How to Effectively Debug JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)**  
+- **[Debugging Checklist for Frontend Developers](https://frontendmasters.com/blog/debugging-like-a-pro/)**  
+- **[Common Frontend Bugs & How to Fix Them](https://css-tricks.com/debugging-css-javascript-html/)**  
 
 
