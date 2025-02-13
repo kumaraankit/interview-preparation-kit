@@ -40,4 +40,31 @@
 
 5. **[React Explained Visually - JavaScript.info](https://javascript.info/react)**  
    - 🎨 A detailed explanation of **React concepts with visual examples**.
+  
+## 📌 HTML Topics  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 1️⃣ **Introduction to HTML5**  
+- **[MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)**
+- **[HTML Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=kUMe1FH4CHE)**
+- **[HTML Crash Course - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)**  
+
+### 2️⃣ **HTML5 Semantic Elements**  
+- **[Guide to HTML5 Semantic Tags](https://www.freecodecamp.org/news/semantic-html5-elements/)**
+- **[MDN Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)**  
+
+### 3️⃣ **Forms & Input Elements**  
+- **[HTML Forms Guide - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms)**
+- **[Creating Forms in HTML - W3Schools](https://www.w3schools.com/html/html_forms.asp)**
+- **[HTML Form Validation - JavaScript.info](https://javascript.info/form-elements)**  
+
+### 4️⃣ **HTML5 Media Elements (Audio & Video)**  
+- **[MDN Guide to Audio & Video](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)**
+- **[Embedding Videos in HTML5 - W3Schools](https://www.w3schools.com/html/html5_video.asp)**  
+
+### 5️⃣ **HTML5 APIs & Advanced Features**  
+- **[HTML5 APIs Explained - SitePoint](https://www.sitepoint.com/introduction-to-html5-apis/)**  
+- **[Geolocation API Guide](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)**
+- **[Web Storage API - LocalStorage & SessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)**
+
 
