@@ -128,6 +128,43 @@
 - **[Foundation Grid System](https://get.foundation/sites/docs/grid.html)**  
 - **[Foundation UI Components Overview](https://get.foundation/sites/docs/components.html)**  
  
+## 📌 Frontend System Design Topics  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 1️⃣ **Scalability & Performance Optimization**  
+- **[Web Performance Optimization Guide - Google](https://web.dev/fast/)**  
+- **[Optimizing React Apps - Kent C. Dodds](https://kentcdodds.com/blog/optimizing-react-applications)**  
+- **[Lazy Loading & Code Splitting in React](https://reactjs.org/docs/code-splitting.html)**  
+
+### 2️⃣ **Micro Frontends Architecture**  
+- **[Micro Frontends - Martin Fowler](https://martinfowler.com/articles/micro-frontends.html)**  
+- **[Building Scalable Micro Frontends - Smashing Magazine](https://www.smashingmagazine.com/2021/02/micro-frontends-composition-performance/)**  
+- **[Single-SPA - Micro Frontend Framework](https://single-spa.js.org/)**  
+
+### 3️⃣ **State Management Strategies**  
+- **[State Management in Large-Scale Applications](https://dev.to/areknawo/state-management-in-large-scale-applications-3m6)**  
+- **[Redux Toolkit Best Practices](https://redux-toolkit.js.org/usage/usage-guide)**  
+- **[Recoil vs. Redux vs. Context API - Comparison](https://blog.bitsrc.io/recoil-vs-redux-vs-context-api-which-one-to-choose-for-your-next-react-app-11f54cf4b8b6)**  
+
+### 4️⃣ **Design Patterns & Best Practices**  
+- **[Frontend Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)**  
+- **[React Design Patterns & Best Practices](https://dev.to/sunnysingh/react-design-patterns-you-should-know-36no)**  
+- **[Scalable Frontend Architecture - Smashing Magazine](https://www.smashingmagazine.com/2021/06/scalable-frontend-architecture/)**  
+
+### 5️⃣ **API Design & Communication**  
+- **[REST vs GraphQL - A Complete Guide](https://blog.logrocket.com/rest-vs-graphql-a-critical-review/)**  
+- **[Handling API Calls in React Efficiently](https://www.freecodecamp.org/news/how-to-use-api-with-react/)**  
+- **[Best Practices for WebSockets in Frontend](https://ably.com/concepts/websockets)**  
+
+### 6️⃣ **Monorepo & Code Organization**  
+- **[Monorepos for Frontend - NX Guide](https://nx.dev/concepts/why-monorepos)**  
+- **[Turborepo - Next-Gen Monorepo Tool](https://turbo.build/repo)**  
+- **[Structuring Large React Projects](https://www.robinwieruch.de/react-folder-structure/)**  
+
+### 7️⃣ **Security Best Practices for Frontend**  
+- **[OWASP Frontend Security Best Practices](https://owasp.org/www-project-secure-headers/)**  
+- **[Preventing XSS & CSRF Attacks](https://portswigger.net/web-security/csrf)**  
+- **[CORS Explained - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)**  
 
 
 
