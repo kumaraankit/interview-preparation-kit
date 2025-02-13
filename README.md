@@ -431,7 +431,67 @@
 
 5. **LRU Cache Implementation**  
    - **Problem:** Implement an LRU (Least Recently Used) cache using JavaScript  
-   - **Solution:** [LRU Cache Implementation](https://leetcode.com/problems/lru-cache/)  
+   - **Solution:** [LRU Cache Implementation](https://leetcode.com/problems/lru-cache/) 
+6. **Implement a Custom `bind()` Function**  
+   - **Problem:** Write a function that mimics JavaScript’s built-in `bind()`  
+   - **Solution:** [Custom Bind Implementation](https://www.geeksforgeeks.org/implement-your-own-bind-function-in-javascript/)  
+
+7. **Polyfill for `setTimeout` and `setInterval`**  
+   - **Problem:** Implement custom versions of `setTimeout()` and `setInterval()`  
+   - **Solution:** [JavaScript Timer Polyfill](https://dev.to/cainwatson/create-your-own-settimeout-and-setinterval-with-javascript-2m5j)  
+
+8. **Deep Compare Two Objects**  
+   - **Problem:** Write a function to compare two objects deeply  
+   - **Solution:** [Deep Object Comparison](https://dmitripavlutin.com/how-to-compare-objects-in-javascript/)  
+
+9. **Event Delegation in JavaScript**  
+   - **Problem:** Implement event delegation for better performance  
+   - **Solution:** [Event Delegation Explained](https://javascript.info/event-delegation)  
+
+10. **Custom Implementation of `Array.prototype.map()`**  
+   - **Problem:** Write your own version of JavaScript’s `map()` function  
+   - **Solution:** [Custom Map Function](https://www.geeksforgeeks.org/implement-map-function-javascript/)  
+
+11. **Memoization in JavaScript**  
+   - **Problem:** Implement a memoization function to optimize performance  
+   - **Solution:** [Memoization Guide](https://www.freecodecamp.org/news/javascript-memoization-example/)  
+
+12. **Function Currying**  
+   - **Problem:** Implement a curried function that supports infinite arguments  
+   - **Solution:** [Currying in JavaScript](https://www.javascripttutorial.net/javascript-currying/)  
+
+13. **Create an Observable Pattern**  
+   - **Problem:** Implement an event-driven observer pattern  
+   - **Solution:** [Observer Pattern in JS](https://dev.to/moz5691/observer-pattern-in-javascript-4ca)  
+
+14. **Custom Implementation of `Promise.allSettled()`**  
+   - **Problem:** Create a function that mimics `Promise.allSettled()`  
+   - **Solution:** [Promise.allSettled Polyfill](https://www.js-craft.io/blog/promise-allsettled-polyfill/)  
+
+15. **Rate Limiting Function Calls**  
+   - **Problem:** Implement a rate limiter that restricts function calls  
+   - **Solution:** [Rate Limiting with JavaScript](https://blog.logrocket.com/rate-limiting-node-js/)
+
+16. **Reverse a Linked List**  
+   - **Problem:** Implement a function to reverse a linked list  
+   - **Solution:** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
+
+17. **Find the Longest Substring Without Repeating Characters**  
+   - **Problem:** Solve the longest unique substring problem  
+   - **Solution:** [Longest Substring Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+
+18. **Merge Two Sorted Arrays**  
+   - **Problem:** Implement a function to merge two sorted arrays without duplicates  
+   - **Solution:** [Merge Sorted Arrays](https://www.freecodecamp.org/news/merge-two-sorted-arrays/)  
+
+19. **Find the First Non-Repeating Character in a String**  
+   - **Problem:** Find the first unique character in a given string  
+   - **Solution:** [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/)  
+
+20. **Implement a Binary Search Algorithm**  
+   - **Problem:** Write a function to perform binary search on a sorted array  
+   - **Solution:** [Binary Search Explained](https://www.geeksforgeeks.org/binary-search/)  
+ 
 
 ---
 
@@ -477,7 +537,49 @@
 
 5. **Design a Responsive UI Without CSS Frameworks**  
    - **Problem:** Implement a responsive layout using pure CSS and media queries  
-   - **Solution:** [Responsive Design Best Practices](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)  
+   - **Solution:** [Responsive Design Best Practices](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+  
+### 5️⃣1️⃣ **DOM Manipulation Problems**  
+1. **Build an Accordion UI Component**  
+   - **Problem:** Implement an expandable/collapsible accordion using JavaScript  
+   - **Solution:** [Accordion Component](https://www.javascripttutorial.net/web-apis/javascript-accordion/)  
 
+2. **Create a Custom Tooltip**  
+   - **Problem:** Build a tooltip that appears on hover over an element  
+   - **Solution:** [Tooltip Implementation](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)  
+
+3. **Implement a Light/Dark Mode Toggle**  
+   - **Problem:** Add dark mode toggling with local storage support  
+   - **Solution:** [Dark Mode in JavaScript](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)  
+
+4. **Build a Custom Autocomplete Search Box**  
+   - **Problem:** Implement a search input with real-time suggestions  
+   - **Solution:** [Autocomplete Search](https://www.w3schools.com/howto/howto_js_autocomplete.asp)  
+
+5. **Infinite Scroll with Fetch API**  
+   - **Problem:** Implement infinite scrolling using JavaScript and Fetch API  
+   - **Solution:** [Infinite Scroll Guide](https://www.freecodecamp.org/news/build-an-infinite-scroll-component-in-react/)  
+---
+
+### 5️⃣2️⃣ **Concurrency & Parallelism Problems**  
+1. **Implement a Retry Mechanism for Failed API Calls**  
+   - **Problem:** Retry API requests that fail due to network issues  
+   - **Solution:** [Retry Pattern](https://dev.to/ycmjason/implement-retry-strategy-in-javascript-2pke)  
+
+2. **Create a Batch Processing Function**  
+   - **Problem:** Process API requests in batches to avoid throttling  
+   - **Solution:** [Batch API Requests](https://javascript.plainenglish.io/batching-requests-in-javascript-the-right-way-d6f7d42e4d53)  
+
+3. **Throttle Function Execution Using Web Workers**  
+   - **Problem:** Use Web Workers to throttle function execution  
+   - **Solution:** [Web Workers Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)  
+
+4. **Implement a WebSocket Client in JavaScript**  
+   - **Problem:** Create a simple WebSocket client to receive real-time data  
+   - **Solution:** [WebSocket Guide](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)  
+
+5. **Implement an Async Queue in JavaScript**  
+   - **Problem:** Create an async queue to control execution order  
+   - **Solution:** [Async Queue in JavaScript](https://medium.com/swlh/implementing-an-async-task-queue-in-node-js-79de291b9b77)  
 
 
