@@ -1,4 +1,4 @@
-## SDE with AI Interview-Preparation-Kit
+## SDE/SDE2 Interview-Preparation-Kit(including AI)
 <hr style="border: 2px solid red;">
 
 ### Frontend Resources
