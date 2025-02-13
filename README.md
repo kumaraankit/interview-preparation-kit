@@ -342,6 +342,51 @@
 - **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - Categorized & color-coded comments for readability  
 - **[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)** - Improved Markdown editing & previewing  
 
+## 📌 Testing Frameworks for React & JavaScript  
+<hr style="width: fit-content; border-bottom: 2px solid red; padding-bottom: 4px;">
+
+### 3️⃣7️⃣ **JavaScript Testing Frameworks**  
+- **[Jest](https://jestjs.io/)** - Most popular testing framework for JavaScript, widely used in frontend and backend  
+- **[Mocha](https://mochajs.org/)** - Flexible test framework for Node.js and browser-based testing  
+- **[Chai](https://www.chaijs.com/)** - Assertion library that pairs well with Mocha for BDD/TDD testing  
+- **[AVA](https://avajs.dev/)** - Minimal and fast JavaScript test runner with built-in parallel execution  
+- **[QUnit](https://qunitjs.com/)** - jQuery-based testing framework used for UI testing  
+
+### 3️⃣8️⃣ **React-Specific Testing Libraries**  
+- **[React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)** - Popular library for testing React components with a user-centric approach  
+- **[Jest with React](https://jestjs.io/docs/tutorial-react)** - Jest works seamlessly with React Testing Library for unit and integration tests  
+- **[Cypress Component Testing](https://docs.cypress.io/guides/component-testing/react/overview)** - UI component testing with real browser interactions  
+
+### 3️⃣9️⃣ **End-to-End (E2E) Testing for Frontend**  
+- **[Cypress](https://www.cypress.io/)** - Leading E2E testing tool for frontend apps with real browser interactions  
+- **[Playwright](https://playwright.dev/)** - Powerful E2E testing tool supporting multiple browsers (Chromium, WebKit, Firefox)  
+- **[Puppeteer](https://pptr.dev/)** - Google’s headless Chrome automation tool, great for UI testing  
+- **[TestCafe](https://testcafe.io/)** - E2E testing framework that doesn’t require browser plugins  
+
+### 4️⃣0️⃣ **API Testing & Mocking**  
+- **[Supertest](https://github.com/ladjs/supertest)** - API testing tool for Node.js  
+- **[MSW (Mock Service Worker)](https://mswjs.io/)** - API mocking tool for frontend and backend applications  
+- **[Postman](https://www.postman.com/)** - API testing tool with request automation & mocking  
+- **[Axios Mock Adapter](https://www.npmjs.com/package/axios-mock-adapter)** - Mocking HTTP requests in JavaScript apps  
+
+### 4️⃣1️⃣ **Performance & Accessibility Testing**  
+- **[Lighthouse](https://developer.chrome.com/docs/lighthouse/)** - Google’s tool for performance, accessibility, and SEO testing  
+- **[axe DevTools](https://www.deque.com/axe/devtools/)** - Accessibility testing for React & web apps  
+- **[React Profiler](https://react.dev/reference/react/Profiler)** - Analyzes React app rendering performance  
+- **[WebPageTest](https://www.webpagetest.org/)** - Detailed performance analysis for web apps  
+
+### 4️⃣2️⃣ **AI-Powered Testing & Automation Tools**  
+- **[Mabl](https://www.mabl.com/)** - AI-driven end-to-end testing platform  
+- **[Testim](https://www.testim.io/)** - AI-based test automation tool for web apps  
+- **[Selenium with AI](https://www.selenium.dev/)** - AI-based automation for browser testing  
+- **[Katalon Studio](https://www.katalon.com/)** - AI-powered automation testing for web & mobile apps  
+
+### 4️⃣3️⃣ **Best Practices for Frontend Testing**  
+- **[Frontend Testing Strategy](https://kentcdodds.com/blog/write-tests/)** - How to structure frontend tests effectively  
+- **[Testing React Best Practices](https://testing-library.com/docs/react-testing-library/cheatsheet/)** - Cheatsheet for React testing  
+- **[Common Mistakes in Testing](https://blog.logrocket.com/common-testing-mistakes-avoid/)** - Best practices & pitfalls in frontend testing  
+
+
 
 
 
